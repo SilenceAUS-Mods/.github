@@ -1,4 +1,4 @@
-SilenceAUS Mods
+**SilenceAUS Mods**
 
 Arma Reforger mods by Silence, built for the Arma Reforger community and the ARGC servers.
 
