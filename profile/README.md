@@ -21,6 +21,10 @@ Mods are published on the Arma Reforger Workshop. Source repositories here are p
 | [Silence EMP GM](https://reforger.armaplatform.com/workshop/69B4A4DB46A624F1) | Game Masters can trigger a silent server-wide electromagnetic pulse. |
 | [Silence EMP no RHS](https://reforger.armaplatform.com/workshop/69E09014463F8AA2) | The EMP mod without the RHS dependency. |
 | [Silence Laser Designation](https://reforger.armaplatform.com/workshop/6A760AE9CDBEB5EB) | Laser designation for guided Javelins. *(WIP)* |
+| [Silence Laser Designation 2](https://reforger.armaplatform.com/workshop/8FE87ECC49AD5989) | A laser rangefinder built on the vanilla B8 binoculars. |
+| [Silence Parachutes](https://reforger.armaplatform.com/workshop/667FD4B7BDF8151F) | Steerable parachutes, built for the ARGC servers. |
+| [Custom Attachments for ARGC](https://reforger.armaplatform.com/workshop/6996EB20CE0C221E) | A content pack of custom attachments for ARGC servers. |
+| Silence Air Defence | |
 | Silence Force FPV | |
 | Silence Vehicle Persistence | |
 | [Silence ARGC Tree cutting](https://reforger.armaplatform.com/workshop/6A4C9BDB500EB9A9) | Fixes tree cutting on ARGC. *(WIP)* |
